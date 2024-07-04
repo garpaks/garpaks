@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paco</h1>
+<h1 align="center">Hi!, I'm Paco 🌊</h1>
 <h3 align="center">A dedicated frontend developer hailing from Mexico</h3>
 
 - 🔭 I’m currently working on **Freelance**
