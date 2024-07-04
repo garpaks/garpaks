@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paco</h1>
+<h1 align="center">Hi 🌊, I'm Paco</h1>
 <h3 align="center">A dedicated frontend developer hailing from Mexico</h3>
 
 - 🔭 I’m currently working on **Freelance**
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/franciscogarciadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franciscogarciadev/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackexchange.com/users/28542299/garpaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackexchange.com/users/28542299/garpaks" height="30" width="40" /></a>
+<a href="https://instagram.com/garpaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garpaks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garpaks&show_icons=true&locale=en&layout=compact" alt="garpaks" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garpaks&show_icons=true&locale=en" alt="garpaks" /></p>
+
