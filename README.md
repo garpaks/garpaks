@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
   <img width="12" />
-  <img src="/icons8-sql-16.png" height="70" alt="sql logo"  />
+  <img src="[/icons8-sql-16.png](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png" alt="external-sql-web-hosting-flaticons-lineal-color-flat-icons)" height="70" alt="sql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
   <img width="12" />
