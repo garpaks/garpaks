@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning JS, React, UX Design and Figma</p>
+<p align="left">🌱 I’m currently learning JS, Vue.js, UX Design and Figma</p>
 
 ###
 
